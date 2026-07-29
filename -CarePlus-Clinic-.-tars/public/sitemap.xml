@@ -1,0 +1,10 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://careplus-clinic.example/</loc></url>
+  <url><loc>https://careplus-clinic.example/about</loc></url>
+  <url><loc>https://careplus-clinic.example/services</loc></url>
+  <url><loc>https://careplus-clinic.example/doctors</loc></url>
+  <url><loc>https://careplus-clinic.example/locations</loc></url>
+  <url><loc>https://careplus-clinic.example/faq</loc></url>
+  <url><loc>https://careplus-clinic.example/contact</loc></url>
+  <url><loc>https://careplus-clinic.example/admin</loc></url>
+</urlset>
