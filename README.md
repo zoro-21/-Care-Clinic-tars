@@ -37,6 +37,6 @@ npm run preview
 npm run test:e2e
 ```
 
-## Tars AI Chat
+## Tars AI Chat link :https://neoagent.hellotars.com/chat/xaPkPWa0?region=us
 
 The floating chat component can load a real Tars embed script when `VITE_TARS_EMBED_URL` is present. Configure the Tars agent to answer the FAQ knowledge base, ask whether the visitor is a new or existing patient, capture appointment details, and demonstrate Salesforce handoff through the mock service or a production API.
