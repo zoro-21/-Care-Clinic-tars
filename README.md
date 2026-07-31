@@ -37,18 +37,6 @@ npm run preview
 npm run test:e2e
 ```
 
-## Mock Salesforce flow
-
-Submitting the appointment modal calls the mock Salesforce service to:
-
-1. Create a Lead.
-2. Create a follow-up Task.
-3. Store the conversation transcript.
-4. Calculate lead temperature as Hot, Warm, or Cold.
-
-Recent mock leads are persisted to browser `localStorage` and surfaced on the `/admin` demo page.
-
-
 ## Tars AI Chat
 
 The floating chat component can load a real Tars embed script when `VITE_TARS_EMBED_URL` is present. Configure the Tars agent to answer the FAQ knowledge base, ask whether the visitor is a new or existing patient, capture appointment details, and demonstrate Salesforce handoff through the mock service or a production API.
