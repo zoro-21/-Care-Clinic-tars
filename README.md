@@ -1,4 +1,4 @@
-# CarePlus Clinic
+# Care+Clinic
 
 Production-ready React 19 + Vite healthcare website with Tailwind CSS, React Router, Framer Motion, Lucide icons, React Hook Form, mocked Salesforce lead workflows, dark mode, SEO assets, Vitest, Playwright, Docker, Vercel config, ESLint, Prettier, and Husky.
 
